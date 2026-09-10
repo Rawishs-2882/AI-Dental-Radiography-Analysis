@@ -23,7 +23,7 @@ Discovered rules are evaluated using standard association rule metrics, so the m
 ## Tech Stack
 
 <div align="center">
-<img src="https://tech-orbit.wontory.dev/api?title=DentalAI&tech=tensorflow,opencv,python&size=420&duration=20" alt="tech stack orbit" width="420" />
+<img src="https://raw.githubusercontent.com/Rawishs-2882/AI-Dental-Radiography-Analysis/main/assets/tech-orbit.svg" alt="tech stack orbit" width="380" />
 </div>
 
 TensorFlow and Keras for the ANN classifier, OpenCV for radiograph preprocessing, and mlxtend for association rule mining.
